@@ -1,1 +1,3 @@
-É importante que todos tenham consciência dos comandos e funções do Git
+É importante que todos tenham consciência dos comandos git
+
+É preciso cuidado no Commit.
