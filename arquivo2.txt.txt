@@ -1,3 +1,5 @@
 É importante que todos tenham consciência dos comandos git
 
 É preciso cuidado no Commit.
+
+Colocando outras informações

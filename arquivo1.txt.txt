@@ -1,3 +1,5 @@
 Estamos estudando para melhorar os conteitos
 
 Compreendi o funcionamento do git push
+
+outras definições
